@@ -8,4 +8,4 @@ array2 = []
 input.times do
   array1<<rand(26)
   array2<<rand(26)
-end
+bend
